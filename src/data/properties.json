@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "sellrent": 1,
+    "name": "Chris pratt",
+    "type": "House",
+    "price": 12000,
+    "image": "prop-1"
+  },
+  {
+    "id": 2,
+    "sellrent": 1,
+    "name": "Tom Cruze",
+    "type": "Villa",
+    "price": 14000,
+    "image": "prop-2"
+  },
+  {
+    "id": 3,
+    "sellrent": 1,
+    "name": "Tom Hanks",
+    "type": "Flat",
+    "price": 11000,
+    "image": "prop-3"
+  },
+  {
+    "id": 4,
+    "sellrent": 2,
+    "name": "Tom Holand",
+    "type": "Duplex",
+    "price": 15000,
+    "image": "prop-4"
+  },
+  {
+    "id": 5,
+    "sellrent": 1,
+    "name": "Brad Pitt",
+    "type": "House",
+    "price": 16000,
+    "image": "prop-5"
+  },
+  {
+    "id": 6,
+    "sellrent": 1,
+    "name": "Simon pegg",
+    "type": "House",
+    "price": 12500
+  }
+
+]
